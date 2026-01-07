@@ -1,3 +1,26 @@
+# Project name & Description
+- Wallety_Refactor
+- This project is a refactor/re-do of an already existing project, to change the naviagtion bar from its original (horizontal state) to being a vertical sidebar. Wallety is a financial institution that makes things like transactions, shopping, betting... etc a lot easier. it uses the wildly used messaging app, WhatsApp to make all of these actions easy... Original site -- https://wallety.cash/.
+
+# Technologies Used
+- Angular
+- HTML
+- CSS
+- A bit of Bootstrap
+
+# Features
+- Responsive layout
+- navigation sidebar
+- Routing
+- Component-based structure
+
+# What I learned
+- The importance of responsive design
+- Angular component structure and Routing
+- Using Git for version control
+- Debugging common frontend issues
+
+
 # Wallety
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.0.
@@ -57,3 +80,8 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+# Author
+- Bellinah Motaung
+- email: motaungbella07@gmail.com
+- LinkedIn: www.linkedin.com/in/refiloe-bellinah-motaung-a85a51204
