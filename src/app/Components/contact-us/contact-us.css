@@ -1,0 +1,46 @@
+
+h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: red;
+    margin-top: 50px;
+}
+
+p{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: rgb(94, 92, 92);
+    margin-top: 20px;
+}
+
+label{
+     font-family: "Poppins", sans-serif;
+     font-size: 17px;
+      color: rgb(94, 92, 92);
+      font-weight: bold;
+    }
+
+form{
+vertical-align: auto;
+font-size: 15px;
+border-radius: 20px;
+margin: 20px 10px 20px 10px;
+}
+
+input:focus{
+ background-color: rgb(160, 158, 158);
+ color: white;
+}
+
+.buttonsubmit{
+ border-color: red;
+ border-radius : 30px;
+ margin: 20px;
+ background-color: white;
+ padding: 20px 40px;
+ margin: 10px 0px 10px 0px;
+}
+
+.buttonsubmit:hover{
+ border: solid 3px red;
+}

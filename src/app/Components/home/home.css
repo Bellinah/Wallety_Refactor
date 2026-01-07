@@ -1,0 +1,72 @@
+.introParagraph{
+   display: flex;
+}
+
+.digitalPayment {
+   min-width: 100%;
+   height: auto;
+}
+
+p 
+{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: gray;
+    margin-bottom : 10px;
+}
+
+ h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    color: gray;
+    text-align: justify;
+ }
+
+ button{
+   font-family: "Poppins", sans-serif;
+    background-color: red;
+    border-radius: 40px;
+    border: none;
+    align-items: center;
+    padding: 15px 30px 15px 30px;
+    margin-right: 20px;
+}
+
+a {
+   color: white;
+   font-size: 20px;
+}
+
+span{
+   color: red;
+}
+
+ .picture{
+    margin-bottom: 500px;
+    width: 300px;
+    margin: 10px 10px 0 0;
+ }
+
+ /*styling the div that contains the images*/
+ .imgClass{
+   margin: auto;
+   width: 100%;
+ }
+
+
+ /*betting, paying, playing*/
+ div.joinWallety{
+   display: flex;
+   background-color: rgb(238, 233, 233);
+ }
+
+ div.joinWallety1{
+   display: flex;
+ }
+
+ .picture2{
+   margin-bottom: 500px;
+    width: 300px;
+    margin: 10px 10px 0 0;
+ }
